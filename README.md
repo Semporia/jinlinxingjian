@@ -16,4 +16,4 @@
 
 - 看动漫（资深二刺猿😂）
 - 游戏：例如csgo，lol，卡拉彼丘（强烈推荐😍）,明日方舟
-- 写个人博客,链接在这里✌ <button style="min-width: 130px; height: 40px; color: #fff; padding: 5px 10px; font-weight: bold; cursor: pointer; transition: all 0.3s ease; position: relative; display: inline-block; outline: none; border-radius: 5px; border: none; background-size: 120% auto; background-image: linear-gradient(315deg, #4ecdc4 0%, #c797eb 75%);" onmouseover="this.style.backgroundPosition = 'right center';" onmousedown="this.style.top = '2px';" onmouseup="this.style.top = '0';" onclick="window.location.href = 'https://jinlinxingjian.top/';"> 金鳞星溅的个人博客 </button>
+- 写个人博客,链接在这里✌ [金鳞星溅的个人博客 ](https://jinlinxingjian.top/)
