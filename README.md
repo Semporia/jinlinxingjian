@@ -1,4 +1,4 @@
-![提交记录](https://raw.githubusercontent.com/jinlinxingjian/jinlinxingjian/output/github-contribution-grid-snake.svg)
+![提交记录贪吃蛇图像（如果加载失败请更换网络）](https://raw.githubusercontent.com/jinlinxingjian/jinlinxingjian/output/github-contribution-grid-snake.svg)
 # 欢迎来到我的个人主页
 
 现在是在校大学生一枚。临近毕业，要加油啦
