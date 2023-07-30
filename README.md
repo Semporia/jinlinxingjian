@@ -22,6 +22,9 @@
 ## 我的编程语言使用情况
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JinlinXingjian&layout=compact&langs_count=6)
 
+## 博客最新文章
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
 
 ## 兴趣
 
