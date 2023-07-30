@@ -24,6 +24,11 @@
 
 ## 博客最新文章
 <!-- START_SECTION:blog -->
+* <a href='https://jinlinxingjian.top/27885b29becc/' target='_blank'>await axios竟然返回undefined？（已解决）</a> - 2023-06-14
+* <a href='https://jinlinxingjian.top/0d63fc06a48b/' target='_blank'>为你的Hexo加个好看的footer吧</a> - 2023-06-03
+* <a href='https://jinlinxingjian.top/9aa03df74b03/' target='_blank'>给你的github个人主页加一个贪吃蛇commit</a> - 2023-05-16
+* <a href='https://jinlinxingjian.top/95ef830417b0/' target='_blank'>介绍两个好用的ChatGPT插件</a> - 2023-04-30
+* <a href='https://jinlinxingjian.top/53fb20b8216f/' target='_blank'>AI绘画vol-1</a> - 2023-04-22
 <!-- END_SECTION:blog -->
 
 ## 兴趣
